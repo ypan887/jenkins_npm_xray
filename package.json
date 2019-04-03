@@ -1,0 +1,9 @@
+{
+  "name": "test",
+    "version": "0.0.1",
+    "author": "nobody",
+    "description": "test",
+    "dependencies": {
+        "constantinople": "3.0.2"
+    }
+}
